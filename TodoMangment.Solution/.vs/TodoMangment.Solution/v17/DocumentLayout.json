@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{575188F5-E34D-47D3-856A-892B438EFCD1}|TodoMangment.API\\TodoMangment.API.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.api\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575188F5-E34D-47D3-856A-892B438EFCD1}|TodoMangment.API\\TodoMangment.API.csproj|solutionrelative:todomangment.api\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575188F5-E34D-47D3-856A-892B438EFCD1}|TodoMangment.API\\TodoMangment.API.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575188F5-E34D-47D3-856A-892B438EFCD1}|TodoMangment.API\\TodoMangment.API.csproj|solutionrelative:todomangment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.bll\\repository\\todorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|solutionrelative:todomangment.bll\\repository\\todorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.bll\\interface\\itodorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|solutionrelative:todomangment.bll\\interface\\itodorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.bll\\dtos\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|solutionrelative:todomangment.bll\\dtos\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1361D50E-6E2A-4E8F-887A-78CF3027C188}|TodoMangment.DAL\\TodoMangment.DAL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.dal\\entite\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1361D50E-6E2A-4E8F-887A-78CF3027C188}|TodoMangment.DAL\\TodoMangment.DAL.csproj|solutionrelative:todomangment.dal\\entite\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.bll\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|solutionrelative:todomangment.bll\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.bll\\dtos\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C37799-FA94-488C-AE02-E7B692BADAD7}|TodoMangment.BLL\\TodoMangment.BLL.csproj|solutionrelative:todomangment.bll\\dtos\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1361D50E-6E2A-4E8F-887A-78CF3027C188}|TodoMangment.DAL\\TodoMangment.DAL.csproj|c:\\users\\dell\\source\\repos\\todomangment.solution\\todomangment.dal\\database\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1361D50E-6E2A-4E8F-887A-78CF3027C188}|TodoMangment.DAL\\TodoMangment.DAL.csproj|solutionrelative:todomangment.dal\\database\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TodoMangment.BLL\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "TodoMangment.BLL\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:40:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\DTOs\\TodoUpdateDTO.cs",
+              "RelativeDocumentMoniker": "TodoMangment.BLL\\DTOs\\TodoUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\DTOs\\TodoUpdateDTO.cs",
+              "RelativeToolTip": "TodoMangment.BLL\\DTOs\\TodoUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:36:45.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\DTOs\\TodoCreateDto.cs",
+              "RelativeDocumentMoniker": "TodoMangment.BLL\\DTOs\\TodoCreateDto.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\DTOs\\TodoCreateDto.cs",
+              "RelativeToolTip": "TodoMangment.BLL\\DTOs\\TodoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:35:05.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.DAL\\Entite\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoMangment.DAL\\Entite\\Todo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.DAL\\Entite\\Todo.cs",
+              "RelativeToolTip": "TodoMangment.DAL\\Entite\\Todo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:01:05.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\Repository\\TodoRepo.cs",
+              "RelativeDocumentMoniker": "TodoMangment.BLL\\Repository\\TodoRepo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\Repository\\TodoRepo.cs",
+              "RelativeToolTip": "TodoMangment.BLL\\Repository\\TodoRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:31:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITodoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\Interface\\ITodoRepo.cs",
+              "RelativeDocumentMoniker": "TodoMangment.BLL\\Interface\\ITodoRepo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.BLL\\Interface\\ITodoRepo.cs",
+              "RelativeToolTip": "TodoMangment.BLL\\Interface\\ITodoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:22:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.API\\Program.cs",
+              "RelativeDocumentMoniker": "TodoMangment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.API\\Program.cs",
+              "RelativeToolTip": "TodoMangment.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:15:58.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.API\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TodoMangment.API\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.API\\Controllers\\TodosController.cs*",
+              "RelativeToolTip": "TodoMangment.API\\Controllers\\TodosController.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwFsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:09:12.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.DAL\\Database\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoMangment.DAL\\Database\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\TodoMangment.Solution\\TodoMangment.DAL\\Database\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoMangment.DAL\\Database\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:07:08.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

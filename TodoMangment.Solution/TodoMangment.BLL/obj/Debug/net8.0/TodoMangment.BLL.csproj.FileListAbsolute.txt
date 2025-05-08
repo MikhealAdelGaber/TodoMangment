@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\bin\Debug\net8.0\TodoMangment.BLL.deps.json
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\bin\Debug\net8.0\TodoMangment.BLL.dll
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\bin\Debug\net8.0\TodoMangment.BLL.pdb
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\bin\Debug\net8.0\TodoMangment.DAL.dll
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\bin\Debug\net8.0\TodoMangment.DAL.pdb
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.AssemblyInfo.cs
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMang.66632F72.Up2Date
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.dll
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\refint\TodoMangment.BLL.dll
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\TodoMangment.BLL.pdb
+C:\Users\dell\source\repos\TodoMangment.Solution\TodoMangment.BLL\obj\Debug\net8.0\ref\TodoMangment.BLL.dll
