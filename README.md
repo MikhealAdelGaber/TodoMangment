@@ -25,14 +25,6 @@ TodoMangment.FullProject/
 
 ## ⚙️ Prerequisites
 
-Make sure you have the following installed:
-
-- [.NET 8 SDK](https://dotnet.microsoft.com/download)
-- [Node.js + npm](https://nodejs.org/)
-- [Angular CLI](https://angular.io/cli)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/)
-
----
 
 ## 🔧 Backend Setup (ASP.NET Core API)
 
@@ -41,17 +33,16 @@ Make sure you have the following installed:
    cd TodoMangment.Solution/TodoMangment.API
    ```
 
-2. Apply database migrations (if using Code First):
+2. Apply database migrations :
    ```bash
    dotnet ef database update
    ```
+   i can not use ABP but used SQL Server you can to do Migration and Update Database the Connection String in appsetting.jason Project TodoMangment.API 
 
 3. Run the API:
    ```bash
    dotnet run
    ```
-
-The API will be available at `https://localhost:5001` or `http://localhost:5000`.
 
 ---
 
@@ -71,8 +62,6 @@ The API will be available at `https://localhost:5001` or `http://localhost:5000`
    ```bash
    ng serve
    ```
-
-The frontend will be available at `http://localhost:4200`.
 
 ---
 
