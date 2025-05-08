@@ -37,7 +37,7 @@ TodoMangment.FullProject/
    ```bash
    dotnet ef database update
    ```
-   i can not use ABP but used SQL Server you can to do Migration and Update Database the Connection String in appsetting.jason Project TodoMangment.API 
+   i can not use ABP but used SQL Server you can to do Update Database the Connection String in appsetting.jason Project TodoMangment.API 
 
 3. Run the API:
    ```bash
